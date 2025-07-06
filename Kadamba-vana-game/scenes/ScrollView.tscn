@@ -1,0 +1,7 @@
+; ScrollView.tscn – Layout for lore scrolls
+; Contains:
+; - Scroll background
+; - RichTextLabel for lore lines
+; - Voice playback button
+; - Badge reveal area
+; - Close button
